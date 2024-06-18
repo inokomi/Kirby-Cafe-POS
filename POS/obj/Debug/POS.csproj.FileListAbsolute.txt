@@ -1,0 +1,20 @@
+C:\Users\Kate\Documents\School\Data Structures\pointofsale\POS\POS\bin\Debug\POS.exe.config
+C:\Users\Kate\Documents\School\Data Structures\pointofsale\POS\POS\bin\Debug\POS.exe
+C:\Users\Kate\Documents\School\Data Structures\pointofsale\POS\POS\bin\Debug\POS.pdb
+C:\Users\Kate\Documents\School\Data Structures\pointofsale\POS\POS\obj\Debug\POS.csprojAssemblyReference.cache
+C:\Users\Kate\Documents\School\Data Structures\pointofsale\POS\POS\obj\Debug\POS.Form1.resources
+C:\Users\Kate\Documents\School\Data Structures\pointofsale\POS\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\Kate\Documents\School\Data Structures\pointofsale\POS\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\Kate\Documents\School\Data Structures\pointofsale\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\Kate\Documents\School\Data Structures\pointofsale\POS\POS\obj\Debug\POS.exe
+C:\Users\Kate\Documents\School\Data Structures\pointofsale\POS\POS\obj\Debug\POS.pdb
+C:\Users\Kath\Documents\SHS\Data Structures\pointofsale - Copy\POS\POS\bin\Debug\POS.exe.config
+C:\Users\Kath\Documents\SHS\Data Structures\pointofsale - Copy\POS\POS\bin\Debug\POS.exe
+C:\Users\Kath\Documents\SHS\Data Structures\pointofsale - Copy\POS\POS\bin\Debug\POS.pdb
+C:\Users\Kath\Documents\SHS\Data Structures\pointofsale - Copy\POS\POS\obj\Debug\POS.csproj.AssemblyReference.cache
+C:\Users\Kath\Documents\SHS\Data Structures\pointofsale - Copy\POS\POS\obj\Debug\POS.Form1.resources
+C:\Users\Kath\Documents\SHS\Data Structures\pointofsale - Copy\POS\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\Kath\Documents\SHS\Data Structures\pointofsale - Copy\POS\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\Kath\Documents\SHS\Data Structures\pointofsale - Copy\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\Kath\Documents\SHS\Data Structures\pointofsale - Copy\POS\POS\obj\Debug\POS.exe
+C:\Users\Kath\Documents\SHS\Data Structures\pointofsale - Copy\POS\POS\obj\Debug\POS.pdb
